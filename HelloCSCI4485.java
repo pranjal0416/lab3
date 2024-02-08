@@ -1,4 +1,4 @@
-public class Hello
+public class HelloCSCI4485
 {
 public static void main( String argv[] )
  {
